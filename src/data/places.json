@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "name": "CECYT 9",
+        "category": "school",
+        "latitude": 19.453550,
+        "longitude": -99.175296,
+        "description": "CECyT 9 escuela del IPN forma técnicos excelentes en programación, desarrollo de software, mecatrónica y sistemas digitales."
+    },
+    {
+        "id": 2,
+        "name": "Chapultepec",
+        "category": "park",
+        "latitude": 19.419451,
+        "longitude": -99.189037,
+        "description": ""
+    },
+    {
+        "id": 3,
+        "name": "Town Center El Rosario",
+        "category": "plaza",
+        "latitude": 19.50293563235092,
+        "longitude": -99.20312165554108,
+        "description": ""
+    },
+    {
+        "id": 4,
+        "name": "Aeropuerto Internacional de la Ciudad de México",
+        "category": "airport",
+        "latitude": 19.43593713805554,
+        "longitude": -99.07195509095718,
+        "description": "El Aeropuerto Internacional de la Ciudad de México, oficialmente Aeropuerto Internacional Benito Juárez de la Ciudad de México, es un aeropuerto comercial que sirve a la zona metropolitana del valle de México. Es el aeropuerto más transitado de México."
+    },
+    {
+        "id": 5,
+        "name": "Fairfield Inn & Suites by Marriott Mexico City Vallejo",
+        "category": "hotel",
+        "latitude": 19.4874726718591,
+        "longitude": -99.1524305746449,
+        "description": ""
+    },
+    {
+        "id": 6,
+        "name": "Museo Soumaya",
+        "category": "museum",
+        "latitude": 19.44067411953454,
+        "longitude": -99.20467560582937,
+        "description": ""
+    },
+    {
+        "id": 7,
+        "name": "CECYT 8",
+        "category": "school",
+        "latitude": 19.48726541525979,
+        "longitude": -99.17520977575684,
+        "description": ""
+    },
+    {
+        "id": 8,
+        "name": "CECYT 6",
+        "category": "school",
+        "latitude": 19.467446124999185,
+        "longitude": -99.1581200579185,
+        "description": ""
+    },
+    {
+        "id": 9,
+        "name": "CECYT 2",
+        "category": "school",
+        "latitude": 19.45235565127891,
+        "longitude": -99.213645250948,
+        "description": ""
+    },
+    {
+        "id": 10,
+        "name": "CECYT 11",
+        "category": "school",
+        "latitude": 19.45396109822731,
+        "longitude": -99.16563762328904,
+        "description": ""
+    },
+    {
+        "id": 11,
+        "name": "Plaza Parque Jardín",
+        "category": "plaza",
+        "latitude": 19.468717559132266,
+        "longitude": -99.16000771487059,
+        "description": ""
+    },
+    {
+        "id": 12,
+        "name": "Plaza Horizonte Cuitláhuac",
+        "category": "plaza",
+        "latitude": 19.459910410293553,
+        "longitude": -99.17782056948764,
+        "description": ""
+    },
+    {
+        "id": 13,
+        "name": "Centro Comercial Patio Clavería",
+        "category": "plaza",
+        "latitude": 19.463865077962964,
+        "longitude": -99.18185396981272,
+        "description": ""
+    },
+    {
+        "id": 14,
+        "name": "Plaza Azcapotzalco",
+        "category": "plaza",
+        "latitude": 19.47781242081448,
+        "longitude": -99.18658973558196,
+        "description": ""
+    },
+    {
+        "id": 15,
+        "name": "Parque Bicentenario",
+        "category": "park",
+        "latitude": 19.469764007887818,
+        "longitude": -99.19580534008811,
+        "description": ""
+    },
+    {
+        "id": 16,
+        "name": "Museo de la Refinería",
+        "category": "museum",
+        "latitude": 19.468084853684317,
+        "longitude": -99.19904544857809,
+        "description": ""
+    },
+    {
+        "id": 17,
+        "name": "Hospital Central Norte Petróleos Mexicanos",
+        "category": "hospital",
+        "latitude": 19.479905814104118,
+        "longitude": -99.20092726685913,
+        "description": ""
+    }
+]
